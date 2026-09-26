@@ -1,0 +1,24 @@
+{
+    "camera": {
+        "width": 1280,
+        "height": 720,
+        "fps": 60
+    },
+
+    "steering": {
+        "max_angle": 90,
+        "deadzone": 5,
+        "sensitivity": 1.0,
+        "smoothing": 0.15
+    },
+
+    "grip": {
+        "min_distance": 180,
+        "max_distance": 500
+    },
+
+    "controller": {
+        "enabled": true,
+        "auto_center": true
+    }
+}
